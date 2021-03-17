@@ -1,0 +1,22 @@
+$blue: hsl(214, 47%, 23%);
+$dark-blue: hsl(237, 49%, 15%);
+
+$light-grey: hsl(217, 16%, 45%);
+
+$dark-text: rgb(59, 67, 99);
+$score-text: hsl(229, 64%, 46%);
+
+$button-light-grey: hsl(0, 0%, 81%);
+$button-default-shadow: inset 0 10px 0 $button-light-grey;
+@mixin button-shadow($shadow_color) {
+  box-shadow: 0 10px 0 $shadow_color, $button-default-shadow;
+}
+
+$paper-blue: hsl(230, 89%, 62%);
+$paper-dark-blue: hsl(230, 49%, 48%);
+
+$scissors-orange: hsl(39, 89%, 49%);
+$scissors-dark-orange: hsl(40, 75%, 44%);
+
+$rock-red: hsl(349, 71%, 52%);
+$rock-dark-red: hsl(349, 56%, 42%);

@@ -1,4 +1,4 @@
-import './assets/styles.scss';
+import './assets/scss/styles.scss';
 
 const root: HTMLElement = document.querySelector('#root')!;
 
