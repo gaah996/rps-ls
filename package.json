@@ -1,0 +1,9 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/gaah996/rps-ls",
+  "author": "Gabriel Castro",
+  "license": "MIT",
+  "private": true
+}
